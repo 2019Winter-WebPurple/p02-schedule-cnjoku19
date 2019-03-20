@@ -1,0 +1,25 @@
+/*
+* Chioma Njoku
+* Due Date
+* Table
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+}
+/* This changes to color of the border lines and thicknss */
+table, td, th { border: 1px solid pink; }
+/* This collapses the spaces in between the cells */
+table { border-collapse: collapse; }
+
+/* This made the heading background of the table aqua */
+thead { background-color: aquamarine; }
+/* This made the footing background of the table green */
+tfoot { background-color: palegreen; }
